@@ -24,9 +24,10 @@ https://advantageonlineshopping.com/#/version
 - **Language:** Python 3.9
 - **Browser:** Chrome
 - **Source Control:** Git/GitHub
+- **Data:** Python Faker library, v 11.3
 
 ### Execution Environment
-Jenkins on AWS EC2 instance with SSH-Key based secure connection to GitHub repository to pull and run the selenium scripts
+Jenkins on AWS EC2 Linix instance with SSH-Key based secure connection to GitHub repository to pull and run the selenium scripts
 
 
 ### Project Management
