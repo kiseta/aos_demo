@@ -1,0 +1,1 @@
+print('this is aos_locators.py file')
