@@ -1,1 +1,3 @@
-# aos_demo
+# Project info
+
+## Purpose
