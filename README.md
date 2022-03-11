@@ -9,16 +9,15 @@ To create automated test to test basic business critical functionality of an eCo
 (where tests are developed)
 https://advantageonlineshopping.com/
 
-Localhost version can be installed and used as well
-http://localhost:8080/
-Local installation requires PosgreSQL database
-more details on local installation: 
+- Localhost version can be installed and used as well
+- Local host URL: http://localhost:8080/
+- Local installation requires PosgreSQL database
+- more details on local installation: 
 https://advantageonlineshopping.com/#/version
 
 
 ### Automation Environment
-(tools and technologies used to develop automated tests)
-(Tools Technologies Used to develop automated tests)
+(Tools, Technologies Used to develop automated tests)
 
 - **IDE:** PyCharm
 - **Automation Framework:** Selenium Webdriver
@@ -28,3 +27,8 @@ https://advantageonlineshopping.com/#/version
 
 ### Execution Environment
 Jenkins on AWS EC2 instance with SSH-Key based secure connection to GitHub repository to pull and run the selenium scripts
+
+
+### Project Management
+- Automated tests are developed based on Manual Test cases using Jira weekly Sprints
+- Manual Test Cases are documented in Confluence and managed via Jira Tasks
