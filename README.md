@@ -17,3 +17,14 @@ https://advantageonlineshopping.com/#/version
 
 
 ### Automation Environment
+(tools and technologies used to develop automated tests)
+(Tools Technologies Used to develop automated tests)
+
+**IDE:** PyCharm
+**Automation Framework:** Selenium Webdriver
+**Language:** Python 3.9
+**Browser:** Chrome
+**Source Control:** Git/GitHub
+
+### Execution Environment
+Jenkins on AWS EC2 instance with SSH-Key based secure connection to GitHub repository to pull and run the selenium scripts
