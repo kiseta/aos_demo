@@ -11,7 +11,7 @@ https://advantageonlineshopping.com/
 
 - Localhost version can be installed and used as well
 - Local host URL: http://localhost:8080/
-- Local installation requires PosgreSQL database
+- Local installation requires PosgreSQL database version 10 or up
 - more details on local installation: 
 https://advantageonlineshopping.com/#/version
 
